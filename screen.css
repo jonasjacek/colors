@@ -71,7 +71,7 @@ header {
 header a,
 header a:hover {
   color: #FFF;
-  display: block;
+  display: inline-block;
   font-size: 0.8em;
   padding: 0.5em 0;
   text-decoration: none;
@@ -90,7 +90,7 @@ h1 {
 }
 h2 {
   font-size: 1.5em;
-  margin: 1.8em 0 0.9em;
+  margin: 1.8em 0 0;
 }
 h3 {
   font-size: 1.4em;
@@ -120,7 +120,7 @@ li ul li, li ol li {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-  margin: 2.5em 0 2.5em;
+  margin: 0.5em 0 2.5em;
   width: 100%;
 }
 caption {
@@ -148,4 +148,4 @@ caption {
 
 /* FOOTER
 ----------------------------------------------------------------------------- */
-footer {font-size: 0.6em;}
+footer {border-top: 1px solid #AAA; margin: 1em auto; padding: 1.5em 0; font-size: 0.6em;}
