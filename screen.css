@@ -1,0 +1,151 @@
+/* RESET
+ * ---------------------------------------------------------------------------*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* DEFAULTS
+ * ---------------------------------------------------------------------------*/
+body {
+  line-height: 1;
+}
+  
+html {
+  color: #333;
+  font-family: sans-serif;
+  font-size: 100%;
+}
+
+p {
+  line-height: 1.4em;
+  margin: 0 0 1em;
+}
+
+a {
+  color: #025D8C;
+  text-decoration: none;
+  transition: all 200ms linear 0s;
+  word-wrap: break-word;
+}
+  a:hover, a:active {
+    text-decoration: underline;
+  }
+  a:active, :focus {
+    outline: 0;
+  }
+  :target {
+    color: #007F00;
+  }
+
+/* STRUCTURE 
+------------------------------------------------------------------------------*/
+main, footer, header {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 0.5em;
+}
+
+/* HEADER
+* ----------------------------------------------------------------------------*/
+header {
+  background: #515151;
+  color: #FFF;
+	text-transform: none;
+}
+header a,
+header a:hover {
+  color: #FFF;
+  display: block;
+  font-size: 0.8em;
+  padding: 0.5em 0;
+  text-decoration: none;
+}
+header span {color: #AAA;}
+
+/* HEADINGS
+* ----------------------------------------------------------------------------*/
+h1,h2,h3 {
+  color: #425051;
+}
+h1 {
+  font-size: 1.6em;
+  line-height: 1.4em;
+  margin: 1.2em 0 1em;
+}
+h2 {
+  font-size: 1.5em;
+  margin: 1.8em 0 0.9em;
+}
+h3 {
+  font-size: 1.4em;
+  margin: 1.7em 0 0.8em;
+}
+
+/* LISTS
+----------------------------------------------------------------------------- */
+ul, ol {
+  list-style-position: outside;
+  margin: 0 0 2em 1.3em;
+}
+li {
+  line-height: 1.4em;
+  margin: 0 0 0.3em;
+  padding: 0 0 0 0.3em; 
+}
+li ul, li ol {
+  margin: 0.5em 0 0.5em 1.5em;
+}
+li ul li, li ol li {
+  margin: 0 0 1em;
+}
+
+/* TABLES
+----------------------------------------------------------------------------- */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin: 2.5em 0 2.5em;
+  width: 100%;
+}
+caption {
+  border-top: 1px dotted #e3e3e5;
+  margin: 0 0 2em;
+  padding: 0.8em 0;
+  text-align: left;
+}
+  tr {
+    border-bottom: 1px dotted #e3e3e5;
+  }
+  th, td {
+    font-size: 0.9em;
+    padding: 0.5em;
+    line-height: 1.4em;
+  }
+  th {
+    border-bottom: 1px solid #e3e3e5;
+    font-weight: bold;
+    text-align: left;
+  }
+  tr:nth-child(odd) td {
+    background: #f9f9f9;
+  }
+
+/* FOOTER
+----------------------------------------------------------------------------- */
+footer {font-size: 0.6em;}
