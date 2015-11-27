@@ -125,14 +125,17 @@ table {
 }
 caption {
   border-top: 1px dotted #e3e3e5;
-  margin: 0 0 2em;
+  color: #666;
+  font-size: 0.6em;
+  margin: 0 0 1em;
   padding: 0.8em 0;
   text-align: left;
 }
   tr {
-    border-bottom: 1px dotted #e3e3e5;
+    border-bottom: 1px solid #e3e3e5;
   }
   th, td {
+    font-family: mono;
     font-size: 0.9em;
     padding: 0.5em;
     line-height: 1.4em;
@@ -144,6 +147,10 @@ caption {
   }
   tr:nth-child(odd) td {
     background: #f9f9f9;
+  }
+  table span {
+    color: #999;
+    font-size: 0.6em;
   }
 
 /* FOOTER
