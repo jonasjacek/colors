@@ -1,4 +1,5 @@
-# colors
-List of 256 color codes for Xterm including Xterm Name, Xterm Number, HEX and RGB.
+# XTERM Colors Cheat Sheet
+Comprehensive list of all 256 color codes for Xterm including an example of the color, Xterm Name, Xterm Number and HEX code.
 
-http://jonasjacek.github.io/colors/
+List: http://jonasjacek.github.io/colors/
+Repo: https://github.com/jonasjacek/colors
