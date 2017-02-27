@@ -1,4 +1,4 @@
-# XTERM Colors Cheat Sheet
+# 256 Colors Cheat Sheet
 Comprehensive list of all 256 color codes for Xterm including: 
 
 * color examples
