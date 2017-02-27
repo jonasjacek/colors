@@ -1,7 +1,5 @@
 # 256 Colors Cheat Sheet
 
-<a href="http://jonasjacek.github.io/colors/"><img src="https://raw.githubusercontent.com/jonasjacek/colors/master/256-color-codes-cheat-sheet.png" width=400 height=368 alt="256 Color Codes Cheat Sheet"></a>
-
 Comprehensive list of all 256 color codes for Xterm including: 
 
 * color examples
@@ -11,6 +9,9 @@ Comprehensive list of all 256 color codes for Xterm including:
 * RGB code
 * HSL code
 
+## Preview
+
+<a href="http://jonasjacek.github.io/colors/"><img src="https://raw.githubusercontent.com/jonasjacek/colors/master/256-color-codes-cheat-sheet.png" width=400 height=368 alt="256 Color Codes Cheat Sheet"></a>
 
 ## Links
 
