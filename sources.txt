@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/X11_color_names
+https://en.wikipedia.org/wiki/X11_color_names#Clashes_between_web_and_X11_colors_in_the_CSS_color_scheme
+http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html
+http://vim.wikia.com/wiki/Xterm256_color_names_for_console_Vim
