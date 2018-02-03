@@ -1,6 +1,8 @@
 # 256 Colors Cheat Sheet
 
-**Errata Exists:** There seem to be duplicate color names in the list, and there are [Clashes between web and X11 colors](https://en.wikipedia.org/wiki/X11_color_names#Clashes_between_web_and_X11_colors_in_the_CSS_color_scheme) in the CSS color scheme. Beware.
+**Errata Exists:** There seem to be duplicate color names in the list, and there are clashes between web and X11 colors in the CSS color scheme, as described [here](https://en.wikipedia.org/wiki/X11_color_names#Clashes_between_web_and_X11_colors_in_the_CSS_color_scheme). Beware.
+
+***
 
 Comprehensive list of all 256 color codes for Xterm including: 
 
