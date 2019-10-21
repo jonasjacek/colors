@@ -30,7 +30,7 @@ The [256 color cheat sheet](https://github.com/jonasjacek/colors) is a small, pr
 
 ## License
 
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Colors</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/jonasjacek/colors" property="cc:attributionName" rel="cc:attributionURL">Jonas Jacek</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Permissions beyond the scope of this license may be available upon request at <a xmlns:cc="http://creativecommons.org/ns#" href="http://jonas.me/#contact" rel="cc:morePermissions">http://jonas.me/</a>.
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Colors</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/jonasjacek/colors" property="cc:attributionName" rel="cc:attributionURL">Jonas Jacek</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Permissions beyond the scope of this license may be available upon request at <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.jonas.me/contact" rel="cc:morePermissions">https://www.jonas.me/contact</a>.
 
 ## Contribute
 
