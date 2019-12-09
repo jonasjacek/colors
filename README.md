@@ -4,7 +4,7 @@
 
 ***
 
-Comprehensive list of all 256 color codes for Xterm including: 
+Comprehensive [list of all 256 color codes](http://jonasjacek.github.io/colors/) for Xterm including: 
 
 * color examples
 * Xterm Name
@@ -21,8 +21,14 @@ Comprehensive list of all 256 color codes for Xterm including:
 
 * List of 256 colors  
 http://jonasjacek.github.io/colors/
-* Repository  
-https://github.com/jonasjacek/colors
+
+## Mirrors
+
+You can find this repository on:
+* GitLab  
+  [https://gitlab.com/jonasjacek/colors](https://gitlab.com/jonasjacek/colors)
+* GitHub  
+  [https://github.com/jonasjacek/colors](https://github.com/jonasjacek/colors)
 
 
 ## Warranty and Liability
