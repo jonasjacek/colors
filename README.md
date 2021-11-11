@@ -4,7 +4,7 @@
 
 ***
 
-Comprehensive [list of all 256 color codes](http://jonasjacek.github.io/colors/) for Xterm including: 
+Comprehensive [list of all 256 color codes](https://www.ditig.com/256-colors-cheat-sheet) for Xterm including: 
 
 * color examples
 * Xterm Name
@@ -20,24 +20,4 @@ Comprehensive [list of all 256 color codes](http://jonasjacek.github.io/colors/)
 ## Links
 
 * List of 256 colors  
-http://jonasjacek.github.io/colors/
-
-## Mirrors
-
-You can find this repository on:
-* GitLab  
-  [https://gitlab.com/jonasjacek/colors](https://gitlab.com/jonasjacek/colors)
-* GitHub  
-  [https://github.com/jonasjacek/colors](https://github.com/jonasjacek/colors)
-
-
-## Warranty and Liability
-The [256 color cheat sheet](https://github.com/jonasjacek/colors) is a small, private project. The author makes absolutely no claims and representations to warranties regarding the accuracy or completeness of the information provided. However, you can use the information in this repository AT YOUR OWN RISK.
-
-## License
-
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Colors</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/jonasjacek/colors" property="cc:attributionName" rel="cc:attributionURL">Jonas Jacek</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Permissions beyond the scope of this license may be available upon request at <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.jonas.me/contact" rel="cc:morePermissions">https://www.jonas.me/contact</a>.
-
-## Contribute
-
-Found a mistake? [Open an issue](https://github.com/jonasjacek/colors/issues) or [send a pull request](https://github.com/jonasjacek/colors/pulls)! Want to help in another way? [Contact me](http://jonas.me/#contact)!
+https://www.ditig.com/256-colors-cheat-sheet
