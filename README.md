@@ -21,6 +21,6 @@ Comprehensive [list of all 256 color codes](https://www.ditig.com/256-colors-che
 ## Links
 
 * List of 256 colors  
-  https://www.ditig.com/publications/256-colors-cheat-sheet
+  https://www.ditig.com/256-colors-cheat-sheet
 * List of CSS named colors / color keywords  
   https://www.uxgem.com/docs/css-color-keywords
