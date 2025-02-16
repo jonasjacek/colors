@@ -4,11 +4,12 @@
 
 ***
 
-Comprehensive [list of all 256 color codes](https://www.ditig.com/publications/256-colors-cheat-sheet) for Xterm including: 
+Comprehensive [list of all 256 color codes](https://www.ditig.com/256-colors-cheat-sheet) for Xterm including: 
 
 * color examples
 * Xterm Name
 * Xterm Number
+* ANSI Code
 * HEX code
 * RGB code
 * HSL code
